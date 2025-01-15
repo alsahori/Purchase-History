@@ -1,0 +1,15 @@
+1111, coffee,8.5
+1111, tea,100.99
+3333, bubble tea,10
+4444, mochi,5.2
+2222, donut,7.75
+9999, carrot cake,8.9
+2222, crepes,12
+3333, milk,1
+2222, water,100
+1111, juice,19.34
+1111,turkey sandwitch,5
+9999, matcha green tea,35.6
+9999,ice cream,100
+222,m,2
+1111,cake pop,2.5
